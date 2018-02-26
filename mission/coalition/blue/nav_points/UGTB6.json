@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGTB6",
+  "id":165,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-345786.57142855,
+  "y":908750,
+  "__version__":14
+}

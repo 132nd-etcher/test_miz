@@ -1,0 +1,14 @@
+{
+  "ClockTime":1,
+  "EWDispenserBL":2,
+  "EWDispenserBR":2,
+  "EWDispenserTBL":2,
+  "EWDispenserTBR":2,
+  "EWDispenserTFL":1,
+  "EWDispenserTFR":1,
+  "ForceINSRules":false,
+  "MountNVG":false,
+  "RocketBurst":1,
+  "WpBullseye":0,
+  "__version__":14
+}

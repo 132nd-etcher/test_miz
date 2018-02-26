@@ -1,0 +1,15 @@
+{
+  "callsignStr":"J1NW",
+  "comment":"",
+  "id":1004,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":8728.5714285707,
+  "y":452190,
+  "__version__":14
+}

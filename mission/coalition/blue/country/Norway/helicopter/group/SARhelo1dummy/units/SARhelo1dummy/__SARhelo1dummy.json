@@ -1,0 +1,18 @@
+{
+  "alt":1048,
+  "alt_type":"BARO",
+  "hardpoint_racks":false,
+  "heading":5.1312680009,
+  "livery_id":"132 Huey",
+  "name":"SARhelo1dummy",
+  "onboard_num":"050",
+  "psi":-5.1312680009,
+  "ropeLength":15,
+  "skill":"Good",
+  "speed":55.5555555556,
+  "type":"UH-1H",
+  "unitId":172,
+  "x":-347175.61264285,
+  "y":902339.17114286,
+  "__version__":14
+}

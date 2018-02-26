@@ -1,0 +1,14 @@
+{
+  "callsignStr":"V3SE",
+  "id":504,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-225568.85714287,
+  "y":720286.8571428501,
+  "__version__":14
+}

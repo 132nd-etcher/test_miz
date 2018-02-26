@@ -1,0 +1,23 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"From Parking Area",
+  "airdromeId":29,
+  "alt":477,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"TakeOffParking",
+  "x":-314800.40625,
+  "y":896614.75,
+  "__version__":14
+}

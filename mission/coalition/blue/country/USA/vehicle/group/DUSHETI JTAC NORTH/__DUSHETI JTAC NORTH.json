@@ -1,0 +1,15 @@
+{
+  "groupId":74,
+  "hidden":false,
+  "name":"DUSHETI JTAC NORTH",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-270451.59114287,
+  "y":867656.3622857101,
+  "__version__":14
+}

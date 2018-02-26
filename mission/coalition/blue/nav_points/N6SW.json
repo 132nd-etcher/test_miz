@@ -1,0 +1,14 @@
+{
+  "callsignStr":"N6SW",
+  "id":160,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-178651.99999999,
+  "y":440996.57142856,
+  "__version__":14
+}

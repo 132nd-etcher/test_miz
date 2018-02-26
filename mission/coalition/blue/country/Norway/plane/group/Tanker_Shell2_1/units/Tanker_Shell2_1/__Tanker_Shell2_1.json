@@ -1,0 +1,18 @@
+{
+  "alt":8,
+  "alt_type":"BARO",
+  "heading":2.4811641361,
+  "livery_id":"132nd Tanker service",
+  "name":"Tanker_Shell2_1",
+  "onboard_num":"964",
+  "parking":"30",
+  "parking_id":"03",
+  "psi":-2.4811641361,
+  "skill":"Excellent",
+  "speed":138.8888888889,
+  "type":"IL-78M",
+  "unitId":61,
+  "x":-219773.0625,
+  "y":563880.4375,
+  "__version__":14
+}

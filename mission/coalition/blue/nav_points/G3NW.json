@@ -1,0 +1,14 @@
+{
+  "callsignStr":"G3NW",
+  "id":286,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-4561.4285714302,
+  "y":268288.85714285,
+  "__version__":14
+}

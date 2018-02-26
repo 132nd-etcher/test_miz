@@ -1,0 +1,15 @@
+{
+  "callsignStr":"DR3",
+  "comment":"",
+  "id":3044,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-265526.85714284,
+  "y":873847.42857142,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R5SE",
+  "id":253,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-144695.14285715,
+  "y":765465.14285714,
+  "__version__":14
+}

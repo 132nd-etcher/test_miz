@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG5X NORTH EAST",
+  "id":427,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-308883.71428572,
+  "y":646278.2857143,
+  "__version__":14
+}

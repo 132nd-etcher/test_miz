@@ -1,0 +1,11 @@
+{
+  "category":"Fortifications",
+  "heading":0,
+  "name":"New Static Object #016",
+  "shape_name":"H-Windsock_RW",
+  "type":"Windsock",
+  "unitId":223,
+  "x":-315056.87407143,
+  "y":896711.82057143,
+  "__version__":14
+}

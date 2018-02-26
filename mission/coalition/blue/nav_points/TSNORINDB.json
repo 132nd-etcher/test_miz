@@ -1,0 +1,14 @@
+{
+  "callsignStr":"TSNORI\/NDB",
+  "id":244,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-306715.14285713,
+  "y":985659.99999999,
+  "__version__":14
+}

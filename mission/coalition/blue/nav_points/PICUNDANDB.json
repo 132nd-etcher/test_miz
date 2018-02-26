@@ -1,0 +1,14 @@
+{
+  "callsignStr":"PICUNDA\/NDB",
+  "id":151,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-192327.42857143,
+  "y":497002.85714285,
+  "__version__":14
+}

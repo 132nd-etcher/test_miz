@@ -1,0 +1,14 @@
+{
+  "callsignStr":"I1NW",
+  "id":540,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":2376.8571428649,
+  "y":373375.71428572,
+  "__version__":14
+}

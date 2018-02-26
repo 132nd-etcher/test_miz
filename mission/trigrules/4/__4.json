@@ -1,0 +1,9 @@
+{
+  "comment":"Beacons",
+  "eventlist":"",
+  "predicate":"triggerOnce",
+  "rules":{
+
+  },
+  "__version__":14
+}

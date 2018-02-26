@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R9SE",
+  "id":45,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-178199.99999999,
+  "y":797440.85714286,
+  "__version__":14
+}

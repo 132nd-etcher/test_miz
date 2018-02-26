@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":138.1,
+  "groupId":61,
+  "hidden":false,
+  "modulation":0,
+  "name":"259th Q",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Transport",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-314899.484,
+  "y":896374.36857143,
+  "__version__":14
+}

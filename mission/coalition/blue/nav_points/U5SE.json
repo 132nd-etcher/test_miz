@@ -1,0 +1,14 @@
+{
+  "callsignStr":"U5SE",
+  "id":347,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-274801.42857143,
+  "y":614728.00000001,
+  "__version__":14
+}

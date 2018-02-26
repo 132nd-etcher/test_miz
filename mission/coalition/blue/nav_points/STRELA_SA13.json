@@ -1,0 +1,15 @@
+{
+  "callsignStr":"STRELA_SA13",
+  "comment":"",
+  "id":3847,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-385390.85714284,
+  "y":925271.7142857499,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"TE4",
+  "comment":"",
+  "id":2411,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-343100.57142857,
+  "y":879797.99999999,
+  "__version__":14
+}

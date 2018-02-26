@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGTB8",
+  "id":178,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-314756.85714283,
+  "y":851571.71428571,
+  "__version__":14
+}

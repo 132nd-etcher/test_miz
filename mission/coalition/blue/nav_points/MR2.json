@@ -1,0 +1,15 @@
+{
+  "callsignStr":"MR2",
+  "comment":"",
+  "id":3039,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-365945.7142857,
+  "y":898075.42857142,
+  "__version__":14
+}

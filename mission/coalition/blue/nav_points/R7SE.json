@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R7SE",
+  "id":257,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-185187.42857143,
+  "y":743042.57142857,
+  "__version__":14
+}

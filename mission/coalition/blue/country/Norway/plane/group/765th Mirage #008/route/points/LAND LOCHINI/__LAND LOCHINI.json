@@ -1,0 +1,23 @@
+{
+  "ETA":239.0596534227,
+  "ETA_locked":false,
+  "action":"Landing",
+  "airdromeId":29,
+  "alt":471,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"LAND LOCHINI",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"Land",
+  "x":-315251.70489286,
+  "y":897202.65078572,
+  "__version__":14
+}

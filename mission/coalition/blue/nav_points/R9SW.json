@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R9SW",
+  "id":333,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-181749.42857143,
+  "y":770240.57142857,
+  "__version__":14
+}

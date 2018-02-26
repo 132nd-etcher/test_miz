@@ -1,0 +1,14 @@
+{
+  "callsignStr":"MUKHRANI\/NDB",
+  "id":197,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-292408.28571428,
+  "y":860239.71428571,
+  "__version__":14
+}

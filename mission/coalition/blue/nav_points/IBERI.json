@@ -1,0 +1,14 @@
+{
+  "callsignStr":"IBERI",
+  "id":207,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-293412.85714286,
+  "y":621060.00000001,
+  "__version__":14
+}

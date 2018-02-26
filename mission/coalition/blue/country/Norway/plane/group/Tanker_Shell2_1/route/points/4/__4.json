@@ -1,0 +1,23 @@
+{
+  "ETA":1000.2975109645,
+  "ETA_locked":false,
+  "action":"Landing",
+  "airdromeId":23,
+  "alt":13,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"Land",
+  "x":-281746.3752134,
+  "y":647314.36819832,
+  "__version__":14
+}

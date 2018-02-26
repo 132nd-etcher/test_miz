@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGSB EAST",
+  "id":128,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-362401.14285714,
+  "y":627895.14285717,
+  "__version__":14
+}

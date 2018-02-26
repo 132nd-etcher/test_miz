@@ -1,0 +1,12 @@
+{
+  "ForceINSRules":false,
+  "GunBurst":1,
+  "LaserCode":1688,
+  "LaserCode1":8,
+  "LaserCode10":8,
+  "LaserCode100":6,
+  "NoDDMSensor":false,
+  "RocketBurst":6,
+  "WpBullseye":0,
+  "__version__":14
+}

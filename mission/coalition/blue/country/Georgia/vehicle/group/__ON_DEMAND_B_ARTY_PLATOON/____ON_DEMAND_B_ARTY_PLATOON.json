@@ -1,0 +1,16 @@
+{
+  "groupId":25,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"__ON_DEMAND_B_ARTY_PLATOON",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-409833.18646428,
+  "y":706759.92914285,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R6SW",
+  "id":472,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-144695.14285714,
+  "y":765465.14285714,
+  "__version__":14
+}

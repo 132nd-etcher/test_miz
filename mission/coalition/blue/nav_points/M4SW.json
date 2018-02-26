@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M4SW",
+  "comment":"",
+  "id":1199,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-40340.285714286,
+  "y":697805.42857142,
+  "__version__":14
+}

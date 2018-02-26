@@ -1,0 +1,14 @@
+{
+  "callsignStr":"OGEVI",
+  "id":182,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-387871.42857142,
+  "y":806442.85714288,
+  "__version__":14
+}

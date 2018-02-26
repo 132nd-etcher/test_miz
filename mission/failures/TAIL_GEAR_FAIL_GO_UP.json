@@ -1,0 +1,9 @@
+{
+  "enable":false,
+  "hh":0,
+  "id":"TAIL_GEAR_FAIL_GO_UP",
+  "mm":0,
+  "mmint":1,
+  "prob":100,
+  "__version__":14
+}

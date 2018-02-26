@@ -1,0 +1,14 @@
+{
+  "callsignStr":"ODILI",
+  "id":310,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-339042.85714285,
+  "y":657135.71428572,
+  "__version__":14
+}

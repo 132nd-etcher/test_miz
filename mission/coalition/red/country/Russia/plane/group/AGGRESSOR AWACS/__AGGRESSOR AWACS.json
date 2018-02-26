@@ -1,0 +1,20 @@
+{
+  "communication":true,
+  "frequency":251,
+  "groupId":31,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"AGGRESSOR AWACS",
+  "radioSet":false,
+  "start_time":-46800,
+  "task":"AWACS",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-125187.2265625,
+  "y":760701.875,
+  "__version__":14
+}

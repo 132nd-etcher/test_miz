@@ -1,0 +1,20 @@
+{
+  "SARenemy1":13,
+  "SARenemy2":14,
+  "SARenemy3":15,
+  "SARenemy4":16,
+  "SARenemy5":17,
+  "S_BMP":5,
+  "S_Sa13":4,
+  "S_Sa19":3,
+  "S_Shilka":1,
+  "S_T55":2,
+  "TETRA_Transport 1":18,
+  "__ON_DEMAND_B_AAA":11,
+  "__ON_DEMAND_B_ARMD_PLATOON":10,
+  "__ON_DEMAND_B_ARTY_PLATOON":9,
+  "__ON_DEMAND_B_INFANTRY_SQUAD":6,
+  "__ON_DEMAND_B_LAAD_PLATOON":8,
+  "__ON_DEMAND_B_RECCE_PLATOON":7,
+  "__ON_DEMAND_B_SA13":12
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"V4SW",
+  "id":88,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-271923.71428571,
+  "y":642218.28571427,
+  "__version__":14
+}

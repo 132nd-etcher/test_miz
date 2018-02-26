@@ -1,0 +1,15 @@
+{
+  "groupId":87,
+  "hidden":false,
+  "name":"FARP TIANETI Vehicles",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-265213.64492857,
+  "y":881974.03207143,
+  "__version__":14
+}

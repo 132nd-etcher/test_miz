@@ -1,0 +1,15 @@
+{
+  "callsignStr":"G4NW",
+  "comment":"",
+  "id":3359,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-44403.428571418,
+  "y":217570.85714287,
+  "__version__":14
+}

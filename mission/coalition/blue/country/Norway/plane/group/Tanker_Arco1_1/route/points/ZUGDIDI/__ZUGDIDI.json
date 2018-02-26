@@ -1,0 +1,15 @@
+{
+  "ETA":758.4185688723,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":7010.4,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"ZUGDIDI",
+  "speed":195.2777777778,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-253197.78446429,
+  "y":629482.51585715,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"DABLAGOMI",
+  "id":302,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-290538.28571429,
+  "y":674162.00000002,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"K1NW",
+  "comment":"",
+  "id":2038,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":16063.714285714,
+  "y":531002.85714289,
+  "__version__":14
+}

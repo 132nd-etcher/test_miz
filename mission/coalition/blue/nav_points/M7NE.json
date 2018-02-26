@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M7NE",
+  "comment":"",
+  "id":2239,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-37010.000000001,
+  "y":724386.8571429499,
+  "__version__":14
+}

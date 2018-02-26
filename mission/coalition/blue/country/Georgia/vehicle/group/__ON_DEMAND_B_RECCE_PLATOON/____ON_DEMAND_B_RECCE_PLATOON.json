@@ -1,0 +1,16 @@
+{
+  "groupId":23,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"__ON_DEMAND_B_RECCE_PLATOON",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-403067.73389285,
+  "y":709322.60057142,
+  "__version__":14
+}

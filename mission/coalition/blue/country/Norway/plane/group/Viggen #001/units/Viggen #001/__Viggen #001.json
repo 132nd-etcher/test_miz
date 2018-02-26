@@ -1,0 +1,18 @@
+{
+  "alt":477,
+  "alt_type":"BARO",
+  "heading":0,
+  "livery_id":"37",
+  "name":"Viggen #001",
+  "onboard_num":"6978",
+  "parking":47,
+  "parking_id":"20",
+  "psi":0,
+  "skill":"Client",
+  "speed":138.8888888889,
+  "type":"AJS37",
+  "unitId":77,
+  "x":-315058.625,
+  "y":896801.4375,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"NA\/LOM",
+  "id":103,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-318914.28571428,
+  "y":900782.28571427,
+  "__version__":14
+}

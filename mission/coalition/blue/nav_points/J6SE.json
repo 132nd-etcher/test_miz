@@ -1,0 +1,15 @@
+{
+  "callsignStr":"J6SE",
+  "comment":"",
+  "id":1179,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-57996.285714286,
+  "y":538320.57142857,
+  "__version__":14
+}

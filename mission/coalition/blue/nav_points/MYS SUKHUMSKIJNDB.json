@@ -1,0 +1,14 @@
+{
+  "callsignStr":"MYS SUKHUMSKIJ\/NDB",
+  "id":80,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-207923.14285714,
+  "y":551227.14285714,
+  "__version__":14
+}

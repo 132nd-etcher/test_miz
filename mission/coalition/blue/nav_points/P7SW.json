@@ -1,0 +1,14 @@
+{
+  "callsignStr":"P7SW",
+  "id":92,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-206140,
+  "y":552696.85714286,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"G4SE",
+  "comment":"",
+  "id":3366,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-80078.857142846,
+  "y":245961.42857144,
+  "__version__":14
+}

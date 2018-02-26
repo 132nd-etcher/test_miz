@@ -1,0 +1,15 @@
+{
+  "callsignStr":"H02",
+  "comment":"",
+  "id":2883,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-278922.57142856,
+  "y":896802.8571428501,
+  "__version__":14
+}

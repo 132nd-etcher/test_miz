@@ -1,0 +1,16 @@
+{
+  "groupId":22,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"__ON_DEMAND_B_INFANTRY_SQUAD",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-398557.43217857,
+  "y":712705.3268571401,
+  "__version__":14
+}

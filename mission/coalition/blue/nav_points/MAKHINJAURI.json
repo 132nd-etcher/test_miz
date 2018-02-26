@@ -1,0 +1,14 @@
+{
+  "callsignStr":"MAKHINJAURI",
+  "id":293,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-348870.28571431,
+  "y":623405.71428562,
+  "__version__":14
+}

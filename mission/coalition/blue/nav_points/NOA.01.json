@@ -1,0 +1,15 @@
+{
+  "callsignStr":"NOA.01",
+  "comment":"GRAD",
+  "id":8354,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-340456.72514289,
+  "y":738002.1042857399,
+  "__version__":14
+}

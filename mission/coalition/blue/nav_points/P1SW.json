@@ -1,0 +1,15 @@
+{
+  "callsignStr":"P1SW",
+  "comment":"",
+  "id":1520,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-132064,
+  "y":545550.85714284,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M3",
+  "comment":"MOA SOUTH3",
+  "id":6655,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-427629.14285714,
+  "y":811881.42857142,
+  "__version__":14
+}

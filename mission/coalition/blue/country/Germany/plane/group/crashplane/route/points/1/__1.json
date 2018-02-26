@@ -1,0 +1,22 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"Fly Over Point",
+  "alt":30,
+  "alt_type":"RADIO",
+  "formation_template":"",
+  "name":"",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "speed":69.375,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-342951.96892856,
+  "y":879236.3234285699,
+  "__version__":14
+}

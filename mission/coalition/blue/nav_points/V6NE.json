@@ -1,0 +1,14 @@
+{
+  "callsignStr":"V6NE",
+  "id":329,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-225568.85714287,
+  "y":720286.85714286,
+  "__version__":14
+}

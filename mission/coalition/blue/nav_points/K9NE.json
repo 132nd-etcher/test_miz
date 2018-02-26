@@ -1,0 +1,14 @@
+{
+  "callsignStr":"K9NE",
+  "id":41,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-49666.285714278,
+  "y":618061.71428569,
+  "__version__":14
+}

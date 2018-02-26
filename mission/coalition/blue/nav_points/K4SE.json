@@ -1,0 +1,15 @@
+{
+  "callsignStr":"K4SE",
+  "comment":"",
+  "id":1213,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-55329.714285714,
+  "y":564900.57142857,
+  "__version__":14
+}

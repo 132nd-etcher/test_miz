@@ -1,0 +1,14 @@
+{
+  "callsignStr":"N5SE",
+  "id":488,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-178652,
+  "y":440996.57142856,
+  "__version__":14
+}

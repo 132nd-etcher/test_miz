@@ -1,0 +1,9 @@
+{
+  "enable":false,
+  "hh":0,
+  "id":"VHF_AM_RADIO_FAILURE_TOTAL",
+  "mm":0,
+  "mmint":1,
+  "prob":100,
+  "__version__":14
+}

@@ -1,0 +1,18 @@
+{
+  "alt":500,
+  "alt_type":"BARO",
+  "hardpoint_racks":true,
+  "heading":5.1487212934,
+  "livery_id":"132 259th Standard",
+  "name":"259th Trainee",
+  "onboard_num":"6973",
+  "psi":-5.1487212934,
+  "ropeLength":15,
+  "skill":"Client",
+  "speed":55.5555555556,
+  "type":"Mi-8MT",
+  "unitId":90,
+  "x":-315020.05542857,
+  "y":896550.36857143,
+  "__version__":14
+}

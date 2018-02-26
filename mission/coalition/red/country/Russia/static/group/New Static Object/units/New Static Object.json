@@ -1,0 +1,11 @@
+{
+  "category":"Fortifications",
+  "heading":0,
+  "name":"New Static Object",
+  "shape_name":"ComCenter",
+  "type":".Command Center",
+  "unitId":198,
+  "x":-267669.3095,
+  "y":716850.01742858,
+  "__version__":14
+}

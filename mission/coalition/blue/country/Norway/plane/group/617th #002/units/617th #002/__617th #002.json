@@ -1,0 +1,18 @@
+{
+  "alt":477,
+  "alt_type":"BARO",
+  "heading":0,
+  "livery_id":"132 617th Standard skin",
+  "name":"617th #002",
+  "onboard_num":"010",
+  "parking":75,
+  "parking_id":"02",
+  "psi":0,
+  "skill":"Client",
+  "speed":138.8888888889,
+  "type":"A-10C",
+  "unitId":8,
+  "x":-314859.53125,
+  "y":896574.25,
+  "__version__":14
+}

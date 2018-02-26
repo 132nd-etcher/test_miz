@@ -1,0 +1,15 @@
+{
+  "callsignStr":"L8NW",
+  "comment":"",
+  "id":1194,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-46670,
+  "y":644642.28571428,
+  "__version__":14
+}

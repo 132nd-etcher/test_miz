@@ -1,0 +1,15 @@
+{
+  "callsignStr":"K7SW",
+  "comment":"",
+  "id":1182,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-95028.571428572,
+  "y":541945.99999999,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"L5SE",
+  "comment":"",
+  "id":1195,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-43560,
+  "y":671223.42857142,
+  "__version__":14
+}

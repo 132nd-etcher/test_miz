@@ -1,0 +1,14 @@
+{
+  "callsignStr":"H7SW",
+  "id":541,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-114075.14285713,
+  "y":301371.99999999,
+  "__version__":14
+}

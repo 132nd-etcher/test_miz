@@ -1,0 +1,16 @@
+{
+  "groupId":99,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"SARenemy2",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-343058.90121427,
+  "y":878303.55714286,
+  "__version__":14
+}

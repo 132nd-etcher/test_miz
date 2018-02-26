@@ -1,0 +1,14 @@
+{
+  "callsignStr":"G6NW",
+  "id":471,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-41587.714285716,
+  "y":270419.42857143,
+  "__version__":14
+}

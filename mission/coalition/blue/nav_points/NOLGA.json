@@ -1,0 +1,14 @@
+{
+  "callsignStr":"NOLGA",
+  "id":87,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-363442.85714284,
+  "y":734668.57142863,
+  "__version__":14
+}

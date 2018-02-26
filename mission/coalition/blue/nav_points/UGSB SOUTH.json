@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGSB SOUTH",
+  "id":392,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-363744.57142857,
+  "y":614134.85714289,
+  "__version__":14
+}

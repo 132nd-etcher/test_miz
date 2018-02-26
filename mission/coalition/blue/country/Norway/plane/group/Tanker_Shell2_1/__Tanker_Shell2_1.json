@@ -1,0 +1,20 @@
+{
+  "communication":true,
+  "frequency":241.25,
+  "groupId":34,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"Tanker_Shell2_1",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Refueling",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-219773.0625,
+  "y":563880.4375,
+  "__version__":14
+}

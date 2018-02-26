@@ -1,0 +1,15 @@
+{
+  "groupId":106,
+  "hidden":false,
+  "name":"TKIBULI_SAM_1",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-267672.7395,
+  "y":717267.76314287,
+  "__version__":14
+}

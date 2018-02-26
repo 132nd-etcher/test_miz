@@ -1,0 +1,18 @@
+{
+  "alt":500,
+  "alt_type":"BARO",
+  "hardpoint_racks":true,
+  "heading":2.2514747351,
+  "livery_id":"132 259th Entropy",
+  "name":"259th Entropy",
+  "onboard_num":"6973",
+  "psi":-2.2514747351,
+  "ropeLength":15,
+  "skill":"Client",
+  "speed":55.5555555556,
+  "type":"Mi-8MT",
+  "unitId":84,
+  "x":-314871.484,
+  "y":896398.9399999999,
+  "__version__":14
+}

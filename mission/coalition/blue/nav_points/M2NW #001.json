@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M2NW",
+  "comment":"",
+  "id":2232,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":37051.428571427,
+  "y":714893.42857152,
+  "__version__":14
+}

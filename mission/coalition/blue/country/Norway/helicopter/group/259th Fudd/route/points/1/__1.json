@@ -1,0 +1,20 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"From Ground Area",
+  "alt":500,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"",
+  "properties":{
+    "addopt":{
+
+    }
+  },
+  "speed":55.5555555556,
+  "speed_locked":true,
+  "type":"TakeOffGround",
+  "x":-314988.3715,
+  "y":896570.2423571401,
+  "__version__":14
+}

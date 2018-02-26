@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R2C",
+  "id":539,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-362094.85714286,
+  "y":628824.28571428,
+  "__version__":14
+}

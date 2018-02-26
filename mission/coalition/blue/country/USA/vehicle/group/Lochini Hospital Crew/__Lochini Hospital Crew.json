@@ -1,0 +1,15 @@
+{
+  "groupId":124,
+  "hidden":false,
+  "name":"Lochini Hospital Crew",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-314761.39178572,
+  "y":894580.0008571499,
+  "__version__":14
+}

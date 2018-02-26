@@ -1,0 +1,15 @@
+{
+  "groupId":88,
+  "hidden":false,
+  "name":"FARP DUSHETI Vehicles",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-279966.30264285,
+  "y":862165.26864286,
+  "__version__":14
+}

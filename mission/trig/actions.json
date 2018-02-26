@@ -1,0 +1,15 @@
+{
+  "1":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_54\"));",
+  "2":"a_group_off(124);a_group_off(125);a_group_off(126); mission.trig.func[2]=nil;",
+  "3":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_587\")); mission.trig.func[3]=nil;",
+  "4":"a_out_sound_c(21, getValueResourceByKey(\"ResKey_Action_345\"));a_out_sound_c(21, getValueResourceByKey(\"ResKey_Action_346\"));a_out_sound_c(21, getValueResourceByKey(\"ResKey_Action_347\")); mission.trig.func[4]=nil;",
+  "5":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_281\")); mission.trig.func[5]=nil;",
+  "6":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_171\")); mission.trig.func[6]=nil;",
+  "7":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_279\")); mission.trig.func[7]=nil;",
+  "8":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_280\")); mission.trig.func[8]=nil;",
+  "9":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_474\")); mission.trig.func[9]=nil;",
+  "10":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_349\")); mission.trig.func[10]=nil;",
+  "11":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_521\")); mission.trig.func[11]=nil;",
+  "12":"a_remove_scene_objects(8677, 0);a_remove_scene_objects(8678, 0); mission.trig.func[12]=nil;",
+  "__version__":14
+}

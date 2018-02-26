@@ -1,0 +1,9 @@
+{
+  "comment":"AI OFF",
+  "eventlist":"",
+  "predicate":"triggerOnce",
+  "rules":{
+
+  },
+  "__version__":14
+}

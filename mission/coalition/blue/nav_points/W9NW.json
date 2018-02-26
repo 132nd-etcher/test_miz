@@ -1,0 +1,14 @@
+{
+  "callsignStr":"W9NW",
+  "id":109,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-255873.14285715,
+  "y":779703.71428571,
+  "__version__":14
+}

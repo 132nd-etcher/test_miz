@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":138.1,
+  "groupId":60,
+  "hidden":false,
+  "modulation":0,
+  "name":"259th Fudd",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Transport",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-314988.3715,
+  "y":896570.2423571401,
+  "__version__":14
+}

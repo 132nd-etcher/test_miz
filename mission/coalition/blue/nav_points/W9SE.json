@@ -1,0 +1,14 @@
+{
+  "callsignStr":"W9SE",
+  "id":475,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-289402.85714286,
+  "y":812044.8571428501,
+  "__version__":14
+}

@@ -1,0 +1,9 @@
+{
+  "enable":false,
+  "hh":0,
+  "id":"fs_damage_left_cell_boost_pump",
+  "mm":0,
+  "mmint":1,
+  "prob":100,
+  "__version__":14
+}

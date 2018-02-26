@@ -1,0 +1,16 @@
+{
+  "groupId":97,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"SARtemplate",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-342811.39321427,
+  "y":878320.8251428599,
+  "__version__":14
+}

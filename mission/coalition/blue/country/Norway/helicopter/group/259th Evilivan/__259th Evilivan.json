@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":138.1,
+  "groupId":59,
+  "hidden":false,
+  "modulation":0,
+  "name":"259th Evilivan",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Transport",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-314930.91257143,
+  "y":896352.08285715,
+  "__version__":14
+}

@@ -1,0 +1,18 @@
+{
+  "alt":12,
+  "alt_type":"BARO",
+  "heading":2.9585986977,
+  "livery_id":"132nd Tanker service",
+  "name":"Tanker_Arco1_1",
+  "onboard_num":"994",
+  "parking":"109",
+  "parking_id":"01",
+  "psi":-2.9585986977,
+  "skill":"Excellent",
+  "speed":138.8888888889,
+  "type":"IL-78M",
+  "unitId":59,
+  "x":-281619.03125,
+  "y":646385.625,
+  "__version__":14
+}

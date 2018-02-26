@@ -1,0 +1,15 @@
+{
+  "callsignStr":"G5NW",
+  "comment":"",
+  "id":3361,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-43051.142857132,
+  "y":243995.42857144,
+  "__version__":14
+}

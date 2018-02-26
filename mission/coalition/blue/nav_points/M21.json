@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M21",
+  "comment":"MOA NORTH1",
+  "id":6657,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-305396.85714286,
+  "y":711166,
+  "__version__":14
+}

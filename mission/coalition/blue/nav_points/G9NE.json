@@ -1,0 +1,15 @@
+{
+  "callsignStr":"G9NE",
+  "comment":"",
+  "id":3377,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-77046.57142856,
+  "y":299115.71428572,
+  "__version__":14
+}

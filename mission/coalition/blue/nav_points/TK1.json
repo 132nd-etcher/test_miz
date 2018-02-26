@@ -1,0 +1,15 @@
+{
+  "callsignStr":"TK1",
+  "comment":"TKIBULI 1",
+  "id":6640,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-268792.57142857,
+  "y":704857.42857142,
+  "__version__":14
+}

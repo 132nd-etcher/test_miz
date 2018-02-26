@@ -1,0 +1,14 @@
+{
+  "callsignStr":"U9SE",
+  "id":323,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-308977.14285713,
+  "y":646158.28571423,
+  "__version__":14
+}

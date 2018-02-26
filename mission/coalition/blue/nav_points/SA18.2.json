@@ -1,0 +1,15 @@
+{
+  "callsignStr":"SA18.2",
+  "comment":"",
+  "id":3849,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-391570.28571426,
+  "y":901406.00000004,
+  "__version__":14
+}

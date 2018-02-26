@@ -1,0 +1,15 @@
+{
+  "callsignStr":"KAI.03",
+  "comment":"",
+  "id":8358,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-297252.81971431,
+  "y":773985.43971431,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"P7SE",
+  "id":348,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-203479.71428571,
+  "y":579884.85714286,
+  "__version__":14
+}

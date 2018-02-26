@@ -1,0 +1,14 @@
+{
+  "callsignStr":"DIPON",
+  "id":15,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-249010,
+  "y":835554.28571428,
+  "__version__":14
+}

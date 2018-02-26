@@ -1,0 +1,15 @@
+{
+  "callsignStr":"FARP DUSHETI",
+  "comment":"",
+  "id":3844,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-280027.42857141,
+  "y":862214.28571431,
+  "__version__":14
+}

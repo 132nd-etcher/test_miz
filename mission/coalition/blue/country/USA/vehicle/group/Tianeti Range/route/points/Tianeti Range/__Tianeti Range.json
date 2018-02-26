@@ -1,0 +1,15 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"Off Road",
+  "alt":1139,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"Tianeti Range",
+  "speed":5.5555555556,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-261516.38235714,
+  "y":890846.9495,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGSS SUKHUMI",
+  "id":354,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-208534,
+  "y":550374.28571432,
+  "__version__":14
+}

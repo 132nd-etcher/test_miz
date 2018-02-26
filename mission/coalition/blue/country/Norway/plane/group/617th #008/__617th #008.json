@@ -1,0 +1,18 @@
+{
+  "communication":false,
+  "frequency":251,
+  "groupId":14,
+  "hidden":false,
+  "modulation":0,
+  "name":"617th #008",
+  "radioSet":false,
+  "start_time":0,
+  "task":"CAS",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-314916.03125,
+  "y":896656.6875,
+  "__version__":14
+}

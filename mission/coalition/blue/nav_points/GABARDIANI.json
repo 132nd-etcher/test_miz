@@ -1,0 +1,14 @@
+{
+  "callsignStr":"GABARDIANI",
+  "id":188,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-336188.85714288,
+  "y":911628.5714285,
+  "__version__":14
+}

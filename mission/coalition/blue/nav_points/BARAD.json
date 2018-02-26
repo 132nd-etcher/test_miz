@@ -1,0 +1,14 @@
+{
+  "callsignStr":"BARAD",
+  "id":460,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-348415.71428571,
+  "y":912044.28571429,
+  "__version__":14
+}

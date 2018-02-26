@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":237,
+  "groupId":47,
+  "hidden":false,
+  "modulation":0,
+  "name":"765th Mirage #007",
+  "radioSet":true,
+  "start_time":0,
+  "task":"CAP",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-314969.9375,
+  "y":896862.1875,
+  "__version__":14
+}

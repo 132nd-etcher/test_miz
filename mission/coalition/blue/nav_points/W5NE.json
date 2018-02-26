@@ -1,0 +1,14 @@
+{
+  "callsignStr":"W5NE",
+  "id":415,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-218808.28571429,
+  "y":774986.28571428,
+  "__version__":14
+}

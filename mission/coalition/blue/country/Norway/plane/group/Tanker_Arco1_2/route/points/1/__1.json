@@ -1,0 +1,16 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"From Parking Area Hot",
+  "airdromeId":18,
+  "alt":30,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"",
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"TakeOffParkingHot",
+  "x":-164392.53125,
+  "y":461913.59375,
+  "__version__":14
+}

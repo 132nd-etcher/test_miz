@@ -1,0 +1,14 @@
+{
+  "callsignStr":"LU\/NDB",
+  "id":259,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-356579.71428571,
+  "y":618590.57142858,
+  "__version__":14
+}

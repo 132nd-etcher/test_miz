@@ -1,0 +1,15 @@
+{
+  "callsignStr":"TKI.09",
+  "comment":"",
+  "id":7429,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-268594.596,
+  "y":721887.59114286,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"ONISA",
+  "id":453,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-230235.71428571,
+  "y":758135.71428573,
+  "__version__":14
+}

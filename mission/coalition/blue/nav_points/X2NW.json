@@ -1,0 +1,14 @@
+{
+  "callsignStr":"X2NW",
+  "id":238,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-174536.28571428,
+  "y":824642.57142858,
+  "__version__":14
+}

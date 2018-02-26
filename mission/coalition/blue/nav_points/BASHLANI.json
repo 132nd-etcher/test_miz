@@ -1,0 +1,14 @@
+{
+  "callsignStr":"BASHLANI",
+  "id":498,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-288772.57142857,
+  "y":684329.14285716,
+  "__version__":14
+}

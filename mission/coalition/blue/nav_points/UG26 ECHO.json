@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG26 ECHO",
+  "id":49,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-280548,
+  "y":700634.85714288,
+  "__version__":14
+}

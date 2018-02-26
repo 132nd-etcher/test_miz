@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGTB7",
+  "id":60,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-319783.99999998,
+  "y":876210.28571429,
+  "__version__":14
+}

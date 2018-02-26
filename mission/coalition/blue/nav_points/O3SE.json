@@ -1,0 +1,14 @@
+{
+  "callsignStr":"O3SE",
+  "id":216,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-132064,
+  "y":545550.85714286,
+  "__version__":14
+}

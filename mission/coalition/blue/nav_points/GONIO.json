@@ -1,0 +1,14 @@
+{
+  "callsignStr":"GONIO",
+  "id":401,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-359170.28571432,
+  "y":615654.2857142,
+  "__version__":14
+}

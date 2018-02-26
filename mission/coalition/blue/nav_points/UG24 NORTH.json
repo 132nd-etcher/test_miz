@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG24 NORTH",
+  "id":478,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-313416.28571429,
+  "y":883724.85714286,
+  "__version__":14
+}

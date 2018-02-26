@@ -1,0 +1,14 @@
+{
+  "callsignStr":"KUMISI",
+  "id":429,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-325673.14285717,
+  "y":888997.14285706,
+  "__version__":14
+}

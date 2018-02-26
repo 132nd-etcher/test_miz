@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGKO EAST",
+  "id":461,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-280475.14285715,
+  "y":697689.1428571499,
+  "__version__":14
+}

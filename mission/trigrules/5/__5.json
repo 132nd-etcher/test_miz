@@ -1,0 +1,9 @@
+{
+  "comment":"Missile Trainer",
+  "eventlist":"",
+  "predicate":"triggerOnce",
+  "rules":{
+
+  },
+  "__version__":14
+}

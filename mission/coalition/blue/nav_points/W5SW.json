@@ -1,0 +1,14 @@
+{
+  "callsignStr":"W5SW",
+  "id":494,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-259305.71428572,
+  "y":752200.85714286,
+  "__version__":14
+}

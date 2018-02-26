@@ -1,0 +1,15 @@
+{
+  "callsignStr":"TE5",
+  "comment":"",
+  "id":2412,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-357900.28571428,
+  "y":863936.28571428,
+  "__version__":14
+}

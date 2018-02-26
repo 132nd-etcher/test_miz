@@ -1,0 +1,15 @@
+{
+  "ETA":773.4506983676,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":7315.2,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"ODILI",
+  "speed":195.2777777778,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-339045.4012143,
+  "y":656530.2087857201,
+  "__version__":14
+}

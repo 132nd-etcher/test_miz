@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG26 NOVEMBER",
+  "id":168,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-272193.14285715,
+  "y":692302.2857143,
+  "__version__":14
+}

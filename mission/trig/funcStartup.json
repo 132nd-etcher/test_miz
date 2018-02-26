@@ -1,0 +1,4 @@
+{
+  "1":"if mission.trig.conditions[1]() then mission.trig.actions[1]() end",
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"GALI\/NDB",
+  "id":542,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-244167.71428571,
+  "y":621256.8571428501,
+  "__version__":14
+}

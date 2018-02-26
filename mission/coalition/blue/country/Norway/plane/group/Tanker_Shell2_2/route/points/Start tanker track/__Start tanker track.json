@@ -1,0 +1,22 @@
+{
+  "ETA":157.3220525309,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":6705.6,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"Start tanker track",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "speed":195.2777777778,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-409041.35917857,
+  "y":653219.465,
+  "__version__":14
+}

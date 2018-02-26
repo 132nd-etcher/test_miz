@@ -1,0 +1,15 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"Off Road",
+  "alt":402,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"Marnueli Range - basic range",
+  "speed":5.5555555556,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-356247.35121429,
+  "y":891354.29007143,
+  "__version__":14
+}

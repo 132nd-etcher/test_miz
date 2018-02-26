@@ -1,0 +1,15 @@
+{
+  "groupId":72,
+  "hidden":false,
+  "name":"TIANETI JTAC NORTH EAST",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-264627.52914287,
+  "y":892500.36942857,
+  "__version__":14
+}

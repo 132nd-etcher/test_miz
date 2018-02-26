@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGKO WEST",
+  "id":10,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-291834.85714287,
+  "y":669473.71428572,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R1SW",
+  "id":23,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-114418,
+  "y":706878.28571428,
+  "__version__":14
+}

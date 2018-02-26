@@ -1,0 +1,14 @@
+{
+  "callsignStr":"SAMGORI",
+  "id":110,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-310328.85714288,
+  "y":909125.7142856501,
+  "__version__":14
+}

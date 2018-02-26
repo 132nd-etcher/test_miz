@@ -1,0 +1,16 @@
+{
+  "groupId":24,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"__ON_DEMAND_B_LAAD_PLATOON",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-405425.39160714,
+  "y":706759.92914285,
+  "__version__":14
+}

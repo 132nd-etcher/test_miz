@@ -1,0 +1,18 @@
+{
+  "alt":461,
+  "alt_type":"BARO",
+  "heading":-1.1111023329,
+  "livery_id":"Standard USAF",
+  "name":"Tanker_Texaco",
+  "onboard_num":"09",
+  "parking":"11",
+  "parking_id":"01",
+  "psi":1.1111023329,
+  "skill":"Excellent",
+  "speed":138.8888888889,
+  "type":"KC-135",
+  "unitId":63,
+  "x":-318048.375,
+  "y":902475.5625,
+  "__version__":14
+}

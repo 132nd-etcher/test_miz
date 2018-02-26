@@ -1,0 +1,14 @@
+{
+  "callsignStr":"V8SE",
+  "id":397,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-302897.14285714,
+  "y":701443.71428568,
+  "__version__":14
+}

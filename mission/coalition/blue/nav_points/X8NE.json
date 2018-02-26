@@ -1,0 +1,14 @@
+{
+  "callsignStr":"X8NE",
+  "id":272,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-244902.85714286,
+  "y":862221.42857142,
+  "__version__":14
+}

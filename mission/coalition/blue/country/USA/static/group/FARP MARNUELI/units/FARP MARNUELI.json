@@ -1,0 +1,13 @@
+{
+  "category":"Heliports",
+  "heading":0,
+  "heliport_callsign_id":8,
+  "heliport_frequency":"126.9",
+  "heliport_modulation":0,
+  "name":"FARP MARNUELI",
+  "type":"FARP",
+  "unitId":167,
+  "x":-346997.48464285,
+  "y":902478.77914286,
+  "__version__":14
+}

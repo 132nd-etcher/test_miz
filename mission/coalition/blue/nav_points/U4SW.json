@@ -1,0 +1,15 @@
+{
+  "callsignStr":"U4SW",
+  "comment":"",
+  "id":1524,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-280224.00000001,
+  "y":559753.42857141,
+  "__version__":14
+}

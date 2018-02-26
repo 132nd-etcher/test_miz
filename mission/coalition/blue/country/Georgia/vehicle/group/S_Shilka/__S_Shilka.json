@@ -1,0 +1,16 @@
+{
+  "groupId":17,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"S_Shilka",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-398351.40846428,
+  "y":706023.9331428499,
+  "__version__":14
+}

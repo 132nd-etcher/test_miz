@@ -1,0 +1,15 @@
+{
+  "callsignStr":"L6NW",
+  "comment":"",
+  "id":2224,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-6528.0000000017,
+  "y":666802.28571437,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"H8NW",
+  "id":265,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-75366.571428564,
+  "y":325692.57142857,
+  "__version__":14
+}

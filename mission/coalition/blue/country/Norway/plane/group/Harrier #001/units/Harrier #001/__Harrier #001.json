@@ -1,0 +1,18 @@
+{
+  "alt":477,
+  "alt_type":"BARO",
+  "heading":0,
+  "livery_id":"default",
+  "name":"Harrier #001",
+  "onboard_num":"6979",
+  "parking":35,
+  "parking_id":"23",
+  "psi":0,
+  "skill":"Client",
+  "speed":138.8888888889,
+  "type":"AV8BNA",
+  "unitId":105,
+  "x":-315085.5625,
+  "y":896904.1875,
+  "__version__":14
+}

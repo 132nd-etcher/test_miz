@@ -1,0 +1,19 @@
+{
+  "communication":true,
+  "frequency":237.1,
+  "groupId":30,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"AWACS2",
+  "radioSet":true,
+  "start_time":0,
+  "task":"AWACS",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-318102,
+  "y":635959.75,
+  "__version__":14
+}

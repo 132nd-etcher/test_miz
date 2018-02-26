@@ -1,0 +1,15 @@
+{
+  "groupId":92,
+  "hidden":false,
+  "name":"FARP MARNUELI Vehicles",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-346948.16464285,
+  "y":902377.40314286,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGSS SOUTH",
+  "id":133,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-228592.57142857,
+  "y":568282.85714289,
+  "__version__":14
+}

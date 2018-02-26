@@ -1,0 +1,14 @@
+{
+  "callsignStr":"G1NW",
+  "id":365,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-7375.7142857159,
+  "y":215745.42857143,
+  "__version__":14
+}

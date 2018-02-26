@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":243,
+  "groupId":79,
+  "hidden":false,
+  "modulation":0,
+  "name":"Harrier #002",
+  "radioSet":false,
+  "start_time":0,
+  "task":"CAS",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-315056,
+  "y":896924.4375,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"I6SE",
+  "id":89,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-65331.142857132,
+  "y":458582.85714286,
+  "__version__":14
+}

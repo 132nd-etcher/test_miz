@@ -1,0 +1,14 @@
+{
+  "callsignStr":"SOSED",
+  "id":277,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-304958.28571428,
+  "y":562252.00000003,
+  "__version__":14
+}

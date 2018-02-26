@@ -1,0 +1,14 @@
+{
+  "2":"if mission.trig.conditions[2]() then mission.trig.actions[2]() end",
+  "3":"if mission.trig.conditions[3]() then mission.trig.actions[3]() end",
+  "4":"if mission.trig.conditions[4]() then mission.trig.actions[4]() end",
+  "5":"if mission.trig.conditions[5]() then mission.trig.actions[5]() end",
+  "6":"if mission.trig.conditions[6]() then mission.trig.actions[6]() end",
+  "7":"if mission.trig.conditions[7]() then mission.trig.actions[7]() end",
+  "8":"if mission.trig.conditions[8]() then mission.trig.actions[8]() end",
+  "9":"if mission.trig.conditions[9]() then mission.trig.actions[9]() end",
+  "10":"if mission.trig.conditions[10]() then mission.trig.actions[10]() end",
+  "11":"if mission.trig.conditions[11]() then mission.trig.actions[11]() end",
+  "12":"if mission.trig.conditions[12]() then mission.trig.actions[12]() end",
+  "__version__":14
+}

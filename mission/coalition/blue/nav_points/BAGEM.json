@@ -1,0 +1,14 @@
+{
+  "callsignStr":"BAGEM",
+  "id":237,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-328649.71428571,
+  "y":857880.85714283,
+  "__version__":14
+}

@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":138.1,
+  "groupId":58,
+  "hidden":false,
+  "modulation":0,
+  "name":"259th Looney",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Transport",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-315055.76971429,
+  "y":896523.51142857,
+  "__version__":14
+}

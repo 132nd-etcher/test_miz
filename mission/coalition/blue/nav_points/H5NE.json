@@ -1,0 +1,14 @@
+{
+  "callsignStr":"H5NE",
+  "id":215,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-36549.428571421,
+  "y":349694.85714286,
+  "__version__":14
+}

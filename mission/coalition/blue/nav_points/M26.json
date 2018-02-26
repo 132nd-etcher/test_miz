@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M26",
+  "comment":"MOA NORTH6",
+  "id":6662,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-304822,
+  "y":811993.14285714,
+  "__version__":14
+}

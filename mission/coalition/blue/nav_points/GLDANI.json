@@ -1,0 +1,14 @@
+{
+  "callsignStr":"GLDANI",
+  "id":393,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-300062.00000001,
+  "y":883579.14285711,
+  "__version__":14
+}

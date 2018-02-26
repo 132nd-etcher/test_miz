@@ -1,0 +1,15 @@
+{
+  "callsignStr":"K3NE",
+  "comment":"",
+  "id":2055,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":24392.57142857,
+  "y":609815.1428572,
+  "__version__":14
+}

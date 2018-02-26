@@ -1,0 +1,13 @@
+{
+  "category":"Heliports",
+  "heading":0,
+  "heliport_callsign_id":8,
+  "heliport_frequency":"127.9",
+  "heliport_modulation":0,
+  "name":"FARP LOCHINI",
+  "type":"FARP",
+  "unitId":158,
+  "x":-280028.19264285,
+  "y":862214.18521429,
+  "__version__":14
+}

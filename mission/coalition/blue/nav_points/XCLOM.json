@@ -1,0 +1,15 @@
+{
+  "callsignStr":"XC\/LOM",
+  "comment":"",
+  "id":3690,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-198335.42857142,
+  "y":517352.28571429,
+  "__version__":14
+}

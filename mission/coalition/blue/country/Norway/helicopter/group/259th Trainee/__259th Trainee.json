@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":138.1,
+  "groupId":63,
+  "hidden":false,
+  "modulation":0,
+  "name":"259th Trainee",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Transport",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-315020.05542857,
+  "y":896550.36857143,
+  "__version__":14
+}

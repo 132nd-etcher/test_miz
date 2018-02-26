@@ -1,0 +1,14 @@
+{
+  "callsignStr":"U2NW",
+  "id":267,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-203479.71428572,
+  "y":579884.85714287,
+  "__version__":14
+}

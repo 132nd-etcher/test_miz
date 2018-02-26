@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M24",
+  "comment":"MOA NORTH4",
+  "id":6660,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-260444.28571429,
+  "y":753652.57142857,
+  "__version__":14
+}

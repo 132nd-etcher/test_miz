@@ -1,0 +1,14 @@
+{
+  "callsignStr":"V7NW",
+  "id":119,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-271923.71428571,
+  "y":642218.2857142501,
+  "__version__":14
+}

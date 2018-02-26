@@ -1,0 +1,15 @@
+{
+  "callsignStr":"P4NE",
+  "comment":"",
+  "id":1529,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-129400,
+  "y":572437.7142857,
+  "__version__":14
+}

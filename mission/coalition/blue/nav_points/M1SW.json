@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M1SW",
+  "comment":"",
+  "id":2228,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-3308.571428573,
+  "y":693228.57142866,
+  "__version__":14
+}

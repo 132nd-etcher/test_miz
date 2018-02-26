@@ -1,0 +1,15 @@
+{
+  "callsignStr":"G01",
+  "comment":"",
+  "id":3203,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-279603.99999999,
+  "y":852465.71428573,
+  "__version__":14
+}

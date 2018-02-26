@@ -1,0 +1,15 @@
+{
+  "callsignStr":"L5NW",
+  "comment":"",
+  "id":2218,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-9637.1428571441,
+  "y":640376.00000007,
+  "__version__":14
+}

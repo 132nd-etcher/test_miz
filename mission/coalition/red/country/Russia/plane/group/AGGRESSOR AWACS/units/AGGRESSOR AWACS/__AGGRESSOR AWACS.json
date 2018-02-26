@@ -1,0 +1,19 @@
+{
+  "alt":430,
+  "alt_type":"BARO",
+  "callsign":117,
+  "heading":-1.9852944232,
+  "livery_id":"RF Air Force",
+  "name":"AGGRESSOR AWACS",
+  "onboard_num":"333",
+  "parking":"24",
+  "parking_id":"04",
+  "psi":1.9852944232,
+  "skill":"Excellent",
+  "speed":138.8888888889,
+  "type":"A-50",
+  "unitId":58,
+  "x":-125187.2265625,
+  "y":760701.875,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"G8SE",
+  "comment":"",
+  "id":3375,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-115643.99999999,
+  "y":274644.57142858,
+  "__version__":14
+}

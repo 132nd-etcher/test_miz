@@ -1,0 +1,14 @@
+{
+  "callsignStr":"O7SW",
+  "id":503,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-213463.42857143,
+  "y":471141.14285714,
+  "__version__":14
+}

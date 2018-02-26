@@ -1,0 +1,17 @@
+{
+  "alt":320,
+  "alt_type":"BARO",
+  "callsign":121,
+  "heading":-2.4765507307,
+  "livery_id":"RF Air Force aeroflot",
+  "name":"RED TANKER 121",
+  "onboard_num":"4763",
+  "psi":2.4765507307,
+  "skill":"High",
+  "speed":138.8888888889,
+  "type":"IL-78M",
+  "unitId":64,
+  "x":-51251.551717591,
+  "y":705718.47981263,
+  "__version__":14
+}

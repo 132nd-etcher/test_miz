@@ -1,0 +1,11 @@
+{
+  "ammo_type":1,
+  "chaff":240,
+  "flare":120,
+  "fuel":5029,
+  "gun":100,
+  "pylons":{
+
+  },
+  "__version__":14
+}

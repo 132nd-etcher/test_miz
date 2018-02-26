@@ -1,0 +1,14 @@
+{
+  "callsignStr":"G3NE",
+  "id":294,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-2989.1428571445,
+  "y":294560.57142857,
+  "__version__":14
+}

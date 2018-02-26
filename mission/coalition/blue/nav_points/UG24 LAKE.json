@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG24 LAKE",
+  "id":254,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-324895.42857144,
+  "y":889901.42857144,
+  "__version__":14
+}

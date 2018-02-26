@@ -1,0 +1,14 @@
+{
+  "callsignStr":"IDLER",
+  "id":24,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-268985.71428571,
+  "y":487615.14285716,
+  "__version__":14
+}

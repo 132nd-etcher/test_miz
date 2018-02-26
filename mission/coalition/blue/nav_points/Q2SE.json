@@ -1,0 +1,14 @@
+{
+  "callsignStr":"Q2SE",
+  "id":389,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-117636.28571428,
+  "y":679989.14285711,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M2",
+  "comment":"MOA SOUTH2",
+  "id":6654,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-304821.42857143,
+  "y":811993.71428571,
+  "__version__":14
+}

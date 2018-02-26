@@ -1,0 +1,14 @@
+{
+  "callsignStr":"GRONZYJ\/NDB",
+  "id":102,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-115717.71428571,
+  "y":929610.85714286,
+  "__version__":14
+}

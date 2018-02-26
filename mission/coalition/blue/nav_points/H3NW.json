@@ -1,0 +1,14 @@
+{
+  "callsignStr":"H3NW",
+  "id":274,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":478.2857142935,
+  "y":347104.57142857,
+  "__version__":14
+}

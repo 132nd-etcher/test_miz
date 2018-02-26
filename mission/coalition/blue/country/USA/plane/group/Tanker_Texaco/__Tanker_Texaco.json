@@ -1,0 +1,19 @@
+{
+  "communication":true,
+  "frequency":150,
+  "groupId":36,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"Tanker_Texaco",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Refueling",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-318048.375,
+  "y":902475.5625,
+  "__version__":14
+}

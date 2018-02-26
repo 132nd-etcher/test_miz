@@ -1,0 +1,14 @@
+{
+  "callsignStr":"MAGLAKI",
+  "id":420,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-274386.85714285,
+  "y":687527.71428574,
+  "__version__":14
+}

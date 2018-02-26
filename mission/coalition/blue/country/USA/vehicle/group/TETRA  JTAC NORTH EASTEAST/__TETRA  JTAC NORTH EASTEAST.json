@@ -1,0 +1,15 @@
+{
+  "groupId":77,
+  "hidden":false,
+  "name":"TETRA  JTAC NORTH EASTEAST",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-334080.08428572,
+  "y":859653.9462857,
+  "__version__":14
+}

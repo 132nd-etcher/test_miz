@@ -1,0 +1,15 @@
+{
+  "callsignStr":"L2NW",
+  "comment":"",
+  "id":2062,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":27391.428571427,
+  "y":636085.42857149,
+  "__version__":14
+}

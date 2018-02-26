@@ -1,0 +1,18 @@
+{
+  "alt":500,
+  "alt_type":"BARO",
+  "hardpoint_racks":true,
+  "heading":5.3407075111,
+  "livery_id":"132 259th Fudd",
+  "name":"259th Fudd",
+  "onboard_num":"6973",
+  "psi":-5.3407075111,
+  "ropeLength":15,
+  "skill":"Client",
+  "speed":55.5555555556,
+  "type":"Mi-8MT",
+  "unitId":87,
+  "x":-314988.3715,
+  "y":896570.2423571401,
+  "__version__":14
+}

@@ -1,0 +1,14 @@
+{
+  "callsignStr":"I8NE",
+  "id":186,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-67557.999999989,
+  "y":432004,
+  "__version__":14
+}

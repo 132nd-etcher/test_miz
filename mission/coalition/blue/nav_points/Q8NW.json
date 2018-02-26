@@ -1,0 +1,15 @@
+{
+  "callsignStr":"Q8NW",
+  "comment":"",
+  "id":1559,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-157786,
+  "y":657291.1428571499,
+  "__version__":14
+}

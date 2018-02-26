@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGKS RIVER WEST",
+  "id":441,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-288380.57142857,
+  "y":637445.71428571,
+  "__version__":14
+}

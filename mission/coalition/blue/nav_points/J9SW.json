@@ -1,0 +1,14 @@
+{
+  "callsignStr":"J9SW",
+  "id":536,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-97583.714285706,
+  "y":515215.71428571,
+  "__version__":14
+}

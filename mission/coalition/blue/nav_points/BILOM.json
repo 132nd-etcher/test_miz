@@ -1,0 +1,15 @@
+{
+  "callsignStr":"BI\/LOM",
+  "comment":"",
+  "id":3533,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-281354.28571428,
+  "y":642090,
+  "__version__":14
+}

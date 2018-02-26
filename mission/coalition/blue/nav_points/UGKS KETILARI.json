@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGKS KETILARI",
+  "id":201,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-289213.14285714,
+  "y":658296.28571431,
+  "__version__":14
+}

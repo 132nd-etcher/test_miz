@@ -1,0 +1,14 @@
+{
+  "callsignStr":"N5NW",
+  "id":334,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-143735.42857143,
+  "y":411135.42857142,
+  "__version__":14
+}

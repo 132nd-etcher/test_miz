@@ -1,0 +1,14 @@
+{
+  "callsignStr":"LAPTO",
+  "id":40,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-217014.28571427,
+  "y":818247.1428572,
+  "__version__":14
+}

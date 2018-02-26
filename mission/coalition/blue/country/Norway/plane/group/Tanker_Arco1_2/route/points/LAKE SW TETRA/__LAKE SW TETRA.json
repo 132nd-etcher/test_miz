@@ -1,0 +1,15 @@
+{
+  "ETA":2254.5727711104,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":7315.2,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"LAKE SW TETRA",
+  "speed":195.2777777778,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-410409.30703571,
+  "y":827464.74253571,
+  "__version__":14
+}

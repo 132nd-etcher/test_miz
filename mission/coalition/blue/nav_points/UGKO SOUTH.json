@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGKO SOUTH",
+  "id":372,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-292545.14285715,
+  "y":688834.57142858,
+  "__version__":14
+}

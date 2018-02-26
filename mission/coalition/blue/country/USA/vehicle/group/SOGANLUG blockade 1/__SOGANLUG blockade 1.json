@@ -1,0 +1,15 @@
+{
+  "groupId":125,
+  "hidden":false,
+  "name":"SOGANLUG blockade 1",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-317195.50778572,
+  "y":894498.40371429,
+  "__version__":14
+}

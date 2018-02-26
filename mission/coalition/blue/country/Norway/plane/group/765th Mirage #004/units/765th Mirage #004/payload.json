@@ -1,0 +1,10 @@
+{
+  "chaff":112,
+  "flare":16,
+  "fuel":3165,
+  "gun":100,
+  "pylons":{
+
+  },
+  "__version__":14
+}

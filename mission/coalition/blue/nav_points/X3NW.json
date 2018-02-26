@@ -1,0 +1,14 @@
+{
+  "callsignStr":"X3NW",
+  "id":261,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-170762.57142857,
+  "y":851845.71428571,
+  "__version__":14
+}

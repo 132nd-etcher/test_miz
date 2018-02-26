@@ -1,0 +1,15 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"Off Road",
+  "alt":494,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"",
+  "speed":5.5555555556,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-314761.39178572,
+  "y":894580.0008571499,
+  "__version__":14
+}

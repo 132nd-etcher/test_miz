@@ -1,0 +1,14 @@
+{
+  "callsignStr":"I4SE",
+  "id":78,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-69674.285714275,
+  "y":405424.85714285,
+  "__version__":14
+}

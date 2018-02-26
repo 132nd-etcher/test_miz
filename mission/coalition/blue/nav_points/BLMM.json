@@ -1,0 +1,15 @@
+{
+  "callsignStr":"B\/LMM",
+  "comment":"",
+  "id":3531,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-281572.85714285,
+  "y":644781.42857143,
+  "__version__":14
+}

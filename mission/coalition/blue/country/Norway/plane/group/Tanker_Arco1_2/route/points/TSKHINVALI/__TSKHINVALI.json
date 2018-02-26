@@ -1,0 +1,15 @@
+{
+  "ETA":2737.4020186762,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":7315.2,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"TSKHINVALI",
+  "speed":195.2777777778,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-316123.59274999,
+  "y":827607.59967856,
+  "__version__":14
+}

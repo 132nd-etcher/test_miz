@@ -1,0 +1,15 @@
+{
+  "ETA":1552.9061310761,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":1930,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"BULLSEYE",
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-284758.22135715,
+  "y":684094.22935714,
+  "__version__":14
+}

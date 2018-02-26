@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG23 EAST",
+  "id":317,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-197076.57142858,
+  "y":526547.1428571499,
+  "__version__":14
+}

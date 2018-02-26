@@ -1,0 +1,14 @@
+{
+  "callsignStr":"S8NW",
+  "id":325,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-137478.85714286,
+  "y":819561.71428571,
+  "__version__":14
+}

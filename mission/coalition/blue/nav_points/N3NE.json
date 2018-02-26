@@ -1,0 +1,14 @@
+{
+  "callsignStr":"N3NE",
+  "id":166,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-102363.71428571,
+  "y":461751.14285715,
+  "__version__":14
+}

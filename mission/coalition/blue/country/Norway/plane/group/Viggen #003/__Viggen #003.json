@@ -1,0 +1,18 @@
+{
+  "communication":true,
+  "frequency":138.1,
+  "groupId":52,
+  "hidden":false,
+  "modulation":0,
+  "name":"Viggen #003",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Ground Attack",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-315026.4375,
+  "y":896944.6875,
+  "__version__":14
+}

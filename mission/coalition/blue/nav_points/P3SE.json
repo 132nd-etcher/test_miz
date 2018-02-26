@@ -1,0 +1,14 @@
+{
+  "callsignStr":"P3SE",
+  "id":192,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-123738.85714285,
+  "y":626211.14285712,
+  "__version__":14
+}

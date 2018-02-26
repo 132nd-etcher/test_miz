@@ -1,0 +1,11 @@
+{
+  "AdditionalArmor":true,
+  "CargoHalfdoor":true,
+  "ExhaustScreen":true,
+  "GunnersAISkill":90,
+  "LeftEngineResource":90,
+  "NS430allow":true,
+  "NetCrewControlPriority":1,
+  "RightEngineResource":90,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"U8SW",
+  "comment":"",
+  "id":1538,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-314616.85714286,
+  "y":590882.57142856,
+  "__version__":14
+}

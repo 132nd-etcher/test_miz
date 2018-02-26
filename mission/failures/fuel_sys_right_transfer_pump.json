@@ -1,0 +1,9 @@
+{
+  "enable":false,
+  "hh":0,
+  "id":"fuel_sys_right_transfer_pump",
+  "mm":0,
+  "mmint":1,
+  "prob":100,
+  "__version__":14
+}

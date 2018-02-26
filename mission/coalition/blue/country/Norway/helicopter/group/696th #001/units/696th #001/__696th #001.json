@@ -1,0 +1,16 @@
+{
+  "alt":500,
+  "alt_type":"BARO",
+  "heading":5.2883476335,
+  "livery_id":"132 696th Standard",
+  "name":"696th #001",
+  "onboard_num":"6964",
+  "psi":-5.2883476335,
+  "skill":"Client",
+  "speed":55.5555555556,
+  "type":"Ka-50",
+  "unitId":92,
+  "x":-315127.26171429,
+  "y":897002.9214285701,
+  "__version__":14
+}

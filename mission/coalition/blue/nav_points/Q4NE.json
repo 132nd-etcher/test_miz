@@ -1,0 +1,15 @@
+{
+  "callsignStr":"Q4NE",
+  "comment":"",
+  "id":1554,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-120743.42857143,
+  "y":653099.42857143,
+  "__version__":14
+}

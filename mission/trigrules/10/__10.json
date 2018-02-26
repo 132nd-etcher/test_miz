@@ -1,0 +1,9 @@
+{
+  "comment":"FAC(A) mark targets",
+  "eventlist":"",
+  "predicate":"triggerOnce",
+  "rules":{
+
+  },
+  "__version__":14
+}

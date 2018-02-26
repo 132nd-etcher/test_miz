@@ -1,0 +1,14 @@
+{
+  "callsignStr":"R3C",
+  "id":349,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-308892.00000001,
+  "y":625475.71428571,
+  "__version__":14
+}

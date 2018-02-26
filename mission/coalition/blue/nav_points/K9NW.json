@@ -1,0 +1,14 @@
+{
+  "callsignStr":"K9NW",
+  "id":177,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-52553.42857142,
+  "y":591481.14285712,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M7SE",
+  "comment":"",
+  "id":1202,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-74046,
+  "y":729092.28571429,
+  "__version__":14
+}

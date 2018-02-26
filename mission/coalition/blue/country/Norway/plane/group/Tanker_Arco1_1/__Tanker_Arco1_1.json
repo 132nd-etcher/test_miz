@@ -1,0 +1,20 @@
+{
+  "communication":true,
+  "frequency":227.1,
+  "groupId":32,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"Tanker_Arco1_1",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Refueling",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-281619.03125,
+  "y":646385.625,
+  "__version__":14
+}

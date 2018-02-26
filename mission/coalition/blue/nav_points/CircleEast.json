@@ -1,0 +1,15 @@
+{
+  "callsignStr":"CircleEast",
+  "comment":"",
+  "id":4776,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-356012.57142857,
+  "y":893036.57142857,
+  "__version__":14
+}

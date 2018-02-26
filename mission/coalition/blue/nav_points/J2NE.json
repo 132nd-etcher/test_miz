@@ -1,0 +1,15 @@
+{
+  "callsignStr":"J2NE",
+  "comment":"",
+  "id":2031,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":13508,
+  "y":504732.57142856,
+  "__version__":14
+}

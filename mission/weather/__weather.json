@@ -1,0 +1,17 @@
+{
+  "atmosphere_type":0,
+  "cyclones":{
+
+  },
+  "enable_fog":true,
+  "groundTurbulence":14,
+  "name":"Autumn, Heavy rain",
+  "name_cn":"秋季 暴雨",
+  "name_de":"Herbst, Starker Regen",
+  "name_es":"Otoño. Lluvia fuerte",
+  "name_fr":"Automne, pluie violente",
+  "name_ru":"Осень. Ливень",
+  "qnh":745,
+  "type_weather":0,
+  "__version__":14
+}

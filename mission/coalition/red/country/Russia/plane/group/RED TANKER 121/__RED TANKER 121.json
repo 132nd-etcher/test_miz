@@ -1,0 +1,19 @@
+{
+  "communication":true,
+  "frequency":251,
+  "groupId":37,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"RED TANKER 121",
+  "radioSet":false,
+  "start_time":0,
+  "task":"Refueling",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-51251.551717591,
+  "y":705718.47981263,
+  "__version__":14
+}

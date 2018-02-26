@@ -1,0 +1,14 @@
+{
+  "callsignStr":"AKAKI",
+  "id":20,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-341168.2857143,
+  "y":596497.71428571,
+  "__version__":14
+}

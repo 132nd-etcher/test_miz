@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M9SE",
+  "comment":"",
+  "id":1206,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-67049.142857143,
+  "y":782568,
+  "__version__":14
+}

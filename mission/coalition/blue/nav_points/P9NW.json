@@ -1,0 +1,14 @@
+{
+  "callsignStr":"P9NW",
+  "id":450,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-163663.71428571,
+  "y":603210.85714286,
+  "__version__":14
+}

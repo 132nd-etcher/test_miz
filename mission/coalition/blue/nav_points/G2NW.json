@@ -1,0 +1,14 @@
+{
+  "callsignStr":"G2NW",
+  "id":342,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-6021.7142857159,
+  "y":242016.57142857,
+  "__version__":14
+}

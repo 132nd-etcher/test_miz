@@ -1,0 +1,25 @@
+{
+  "currentKey":57383,
+  "descriptionBlueTask":"",
+  "descriptionNeutralsTask":"",
+  "descriptionRedTask":"",
+  "descriptionText":"132nd Virtual Wing is located at Tblisi Lochini in order to conduct range training\\\n\\\nFrequencies and weather information according to tasking and briefing on 132nd Website\\\n\\\nAWACS (AI)\\\nAM:237.100\\\n\\\nTanker TEXACO (KC-135)\\\nAM: 150.000, TACAN:05Y\\\n\\\nTanker ARCO 1-1  (IL-78M)\\\nAM 227.100 (Mirage2000 Preset UHF#8  V\/UHF#12)\\\nTACAN:08Y\\\n\\\nTanker ARCO 1-2  (IL-78M)\\\nAM 227.800 (no preset)\\\nTACAN:10Y\\\n\\\nTanker SHELL 2-1  (IL-78M)\\\nAM 241.250 (Mirage2000 Preset UHF#6  V\/UHF#15)\\\nTACAN:09Y\\\n\\\nTanker SHELL 2-2  (IL-78M)\\\nAM 241.750 (no preset)\\\nTACAN:11Y\\\n\\\nRED TANKER 121 (IL-78M)\\\nAM 234.750\\\nTACAN: 12Y\\\n",
+  "goals":{
+
+  },
+  "maxDictId":627,
+  "pictureFileNameB":{
+
+  },
+  "pictureFileNameN":{
+
+  },
+  "pictureFileNameR":{
+
+  },
+  "sortie":"",
+  "start_time":30000,
+  "theatre":"Caucasus",
+  "version":14,
+  "__version__":14
+}

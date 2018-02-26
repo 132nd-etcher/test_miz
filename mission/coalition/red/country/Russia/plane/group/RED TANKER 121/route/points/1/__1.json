@@ -1,0 +1,16 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"From Runway",
+  "airdromeId":26,
+  "alt":320,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"",
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"TakeOff",
+  "x":-51251.551717591,
+  "y":705718.47981263,
+  "__version__":14
+}

@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M9SW",
+  "comment":"",
+  "id":1205,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-70604,
+  "y":755829.42857143,
+  "__version__":14
+}

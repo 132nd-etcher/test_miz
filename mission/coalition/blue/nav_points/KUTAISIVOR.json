@@ -1,0 +1,14 @@
+{
+  "callsignStr":"KUTAISI\/VOR",
+  "id":469,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-285475.42857142,
+  "y":681743.42857143,
+  "__version__":14
+}

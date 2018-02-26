@@ -1,0 +1,14 @@
+{
+  "callsignStr":"O2NE",
+  "id":141,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-97583.714285716,
+  "y":515215.71428572,
+  "__version__":14
+}

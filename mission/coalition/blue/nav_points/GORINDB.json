@@ -1,0 +1,14 @@
+{
+  "callsignStr":"GORI\/NDB",
+  "id":85,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-286113.71428571,
+  "y":822770.8571428501,
+  "__version__":14
+}

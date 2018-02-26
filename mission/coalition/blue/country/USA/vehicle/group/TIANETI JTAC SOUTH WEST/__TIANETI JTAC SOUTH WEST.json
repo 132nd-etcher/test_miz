@@ -1,0 +1,15 @@
+{
+  "groupId":73,
+  "hidden":false,
+  "name":"TIANETI JTAC SOUTH WEST",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-268192.91257144,
+  "y":888684.76285714,
+  "__version__":14
+}

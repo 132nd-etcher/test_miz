@@ -1,0 +1,14 @@
+{
+  "callsignStr":"BANUT",
+  "id":337,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-214580.57142857,
+  "y":469793.71428573,
+  "__version__":14
+}

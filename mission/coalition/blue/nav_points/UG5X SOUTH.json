@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG5X SOUTH",
+  "id":68,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-330561.14285715,
+  "y":629329.71428573,
+  "__version__":14
+}

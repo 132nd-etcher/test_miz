@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG5X BLACK SEA",
+  "id":418,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-309040.28571429,
+  "y":625384.85714287,
+  "__version__":14
+}

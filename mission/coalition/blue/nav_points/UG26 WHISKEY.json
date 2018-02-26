@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UG26 WHISKEY",
+  "id":5,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-274438.28571429,
+  "y":689099.71428573,
+  "__version__":14
+}

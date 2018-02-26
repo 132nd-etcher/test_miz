@@ -1,0 +1,14 @@
+{
+  "callsignStr":"UGKS NOSIRI",
+  "id":326,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-276227.14285714,
+  "y":654740.57142857,
+  "__version__":14
+}

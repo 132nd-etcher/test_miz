@@ -1,0 +1,14 @@
+{
+  "callsignStr":"W8NW",
+  "id":94,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-259305.71428572,
+  "y":752201.14285714,
+  "__version__":14
+}

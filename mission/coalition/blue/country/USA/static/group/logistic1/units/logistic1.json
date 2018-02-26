@@ -1,0 +1,12 @@
+{
+  "category":"Warehouses",
+  "heading":0.6806784083,
+  "name":"logistic1",
+  "rate":100,
+  "shape_name":"sklad",
+  "type":"Warehouse",
+  "unitId":183,
+  "x":-318194.37635713,
+  "y":895605.82114287,
+  "__version__":14
+}

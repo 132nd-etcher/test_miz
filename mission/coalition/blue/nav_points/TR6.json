@@ -1,0 +1,15 @@
+{
+  "callsignStr":"TR6",
+  "comment":"",
+  "id":2727,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-300261.99999999,
+  "y":913226.8571428501,
+  "__version__":14
+}

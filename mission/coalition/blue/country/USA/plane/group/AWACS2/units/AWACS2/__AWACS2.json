@@ -1,0 +1,18 @@
+{
+  "alt":18,
+  "alt_type":"BARO",
+  "heading":1.9158273943,
+  "livery_id":"nato",
+  "name":"AWACS2",
+  "onboard_num":"088",
+  "parking":"78",
+  "parking_id":"21",
+  "psi":-1.9158273943,
+  "skill":"Excellent",
+  "speed":138.8888888889,
+  "type":"E-3A",
+  "unitId":57,
+  "x":-318102,
+  "y":635959.75,
+  "__version__":14
+}

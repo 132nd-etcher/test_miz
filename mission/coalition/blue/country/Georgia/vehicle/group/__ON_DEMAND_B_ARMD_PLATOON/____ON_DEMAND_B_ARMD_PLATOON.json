@@ -1,0 +1,16 @@
+{
+  "groupId":26,
+  "hidden":false,
+  "lateActivation":true,
+  "name":"__ON_DEMAND_B_ARMD_PLATOON",
+  "start_time":0,
+  "task":"Ground Nothing",
+  "taskSelected":true,
+  "tasks":{
+
+  },
+  "visible":false,
+  "x":-407783.04932142,
+  "y":707169.95657142,
+  "__version__":14
+}

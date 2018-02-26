@@ -1,0 +1,12 @@
+{
+  "category":"Fortifications",
+  "heading":0.9948376736,
+  "name":"Lochini Hospital",
+  "rate":100,
+  "shape_name":"Hospital",
+  "type":"hospital",
+  "unitId":209,
+  "x":-314705.52092858,
+  "y":894584.0397142899,
+  "__version__":14
+}

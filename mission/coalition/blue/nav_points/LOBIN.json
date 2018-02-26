@@ -1,0 +1,14 @@
+{
+  "callsignStr":"LOBIN",
+  "id":463,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-278348.57142857,
+  "y":735438.57142858,
+  "__version__":14
+}

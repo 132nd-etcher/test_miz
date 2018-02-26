@@ -1,0 +1,18 @@
+{
+  "alt":477,
+  "alt_type":"BARO",
+  "heading":-1.4295035071,
+  "livery_id":"132nd 765th squadron standard",
+  "name":"765th Mirage #005",
+  "onboard_num":"013",
+  "parking":57,
+  "parking_id":"15",
+  "psi":1.4295035071,
+  "skill":"Client",
+  "speed":138.8888888889,
+  "type":"M-2000C",
+  "unitId":72,
+  "x":-315002.09375,
+  "y":896718.9375,
+  "__version__":14
+}

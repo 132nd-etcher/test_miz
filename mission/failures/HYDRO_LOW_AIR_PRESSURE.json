@@ -1,0 +1,9 @@
+{
+  "enable":false,
+  "hh":0,
+  "id":"HYDRO_LOW_AIR_PRESSURE",
+  "mm":0,
+  "mmint":1,
+  "prob":100,
+  "__version__":14
+}

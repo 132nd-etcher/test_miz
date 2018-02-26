@@ -1,0 +1,15 @@
+{
+  "callsignStr":"L3SE",
+  "comment":"",
+  "id":2227,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-3308.571428573,
+  "y":693228.57142866,
+  "__version__":14
+}

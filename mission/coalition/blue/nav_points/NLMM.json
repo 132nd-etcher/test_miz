@@ -1,0 +1,14 @@
+{
+  "callsignStr":"N\/LMM",
+  "id":273,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-317252.00000002,
+  "y":898654.2857142,
+  "__version__":14
+}

@@ -1,0 +1,19 @@
+{
+  "communication":false,
+  "frequency":251,
+  "groupId":94,
+  "hidden":false,
+  "lateActivation":false,
+  "modulation":0,
+  "name":"SARhelo1dummy",
+  "radioSet":false,
+  "start_time":0,
+  "task":"Transport",
+  "tasks":{
+
+  },
+  "uncontrolled":false,
+  "x":-347175.61264285,
+  "y":902339.17114286,
+  "__version__":14
+}

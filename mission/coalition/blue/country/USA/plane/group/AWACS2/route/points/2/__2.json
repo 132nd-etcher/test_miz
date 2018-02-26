@@ -1,0 +1,15 @@
+{
+  "ETA":1575.7989282412,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":12192,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"",
+  "speed":138.75,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-391922.84517858,
+  "y":841355.63114285,
+  "__version__":14
+}

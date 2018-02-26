@@ -1,0 +1,9 @@
+{
+  "enable":false,
+  "hh":0,
+  "id":"TURNIND_INCORRECT_SENS_VAC_LOW",
+  "mm":0,
+  "mmint":1,
+  "prob":100,
+  "__version__":14
+}

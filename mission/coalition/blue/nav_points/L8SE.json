@@ -1,0 +1,14 @@
+{
+  "callsignStr":"L8SE",
+  "id":134,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-80595.999999993,
+  "y":675619.1428571,
+  "__version__":14
+}

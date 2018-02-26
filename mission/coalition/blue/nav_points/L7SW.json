@@ -1,0 +1,14 @@
+{
+  "callsignStr":"L7SW",
+  "id":112,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-86703.999999992,
+  "y":622147.99999996,
+  "__version__":14
+}

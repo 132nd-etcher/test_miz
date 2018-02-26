@@ -1,0 +1,14 @@
+{
+  "callsignStr":"BATUMI\/NDB",
+  "id":406,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-355250.85714285,
+  "y":617872.57142857,
+  "__version__":14
+}

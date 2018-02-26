@@ -1,0 +1,15 @@
+{
+  "callsignStr":"M25",
+  "comment":"MOA NORTH5",
+  "id":6661,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-265043.71428571,
+  "y":807139.71428571,
+  "__version__":14
+}

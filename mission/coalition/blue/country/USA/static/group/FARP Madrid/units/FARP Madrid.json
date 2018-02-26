@@ -1,0 +1,13 @@
+{
+  "category":"Heliports",
+  "heading":0,
+  "heliport_callsign_id":7,
+  "heliport_frequency":"125.9",
+  "heliport_modulation":0,
+  "name":"FARP Madrid",
+  "type":"FARP",
+  "unitId":157,
+  "x":-265274.26207142,
+  "y":882043.23664286,
+  "__version__":14
+}

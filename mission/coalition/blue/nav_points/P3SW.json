@@ -1,0 +1,14 @@
+{
+  "callsignStr":"P3SW",
+  "id":484,
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
+  "x":-126624.85714285,
+  "y":599323.99999997,
+  "__version__":14
+}
